@@ -1,2 +1,2 @@
 # bits-fedex
-A web service for querying the Fedex API
+A REST API wrapper for the Fedex Tracking SOAP web service
